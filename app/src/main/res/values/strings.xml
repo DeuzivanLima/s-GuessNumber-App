@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GuessNumberYouAreThinking</string>
+    <string name="header_text">Eu vou descobrir o número que você está pensando errando o mínimo que eu conseguir. Vamos tentar?</string>
+    <string name="yes_label">Sim</string>
+    <string name="no_label">Não</string>
+    <string name="less_label">Menor</string>
+    <string name="more_label">Maior</string>
+    <string name="correct_label">Acertou</string>
+</resources>
